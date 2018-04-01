@@ -5,3 +5,6 @@ Bash Git Prompt
 
 Ubuntu Realtek HDA Audio Driver
 <p>https://wiki.ubuntu.com/Audio/UpgradingAlsa/DKMS</p>
+
+Ubuntu Google Chrome
+<p>https://askubuntu.com/questions/510056/how-to-install-google-chrome</p>
